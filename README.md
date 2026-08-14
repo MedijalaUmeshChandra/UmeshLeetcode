@@ -7,6 +7,7 @@ My journey
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
