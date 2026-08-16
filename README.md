@@ -31,4 +31,8 @@ My journey
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
