@@ -6,6 +6,7 @@ My journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -24,6 +25,7 @@ My journey
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |
