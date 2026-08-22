@@ -19,6 +19,7 @@ My journey
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,6 +33,7 @@ My journey
 | ------- |
 | [0001-two-sum](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2325-decode-the-message) |
