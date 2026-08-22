@@ -1,11 +1,14 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
        
-                   ans = 0
-                   for i in range(len(jewels)):
-                      for j in range(len(stones)):
-                          chi=jewels[i]
-                          chj=stones[j]
-                          if chi==chj:
-                              ans += 1
-                   return(ans)
+                dici = {}
+                for i in stones:
+                    if i not in dici:
+                        dici[i] = 1
+                    else:
+                        dici[i] += 1
+                ans = 0
+                for j in jewels:
+                        if j in dici:
+                            ans = ans + dici[j]
+                return ans 
