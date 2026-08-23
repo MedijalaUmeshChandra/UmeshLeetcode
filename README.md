@@ -11,6 +11,7 @@ My journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -34,6 +35,7 @@ My journey
 | [0001-two-sum](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0205-isomorphic-strings) |
+| [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2325-decode-the-message) |
@@ -54,6 +56,7 @@ My journey
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +65,7 @@ My journey
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
