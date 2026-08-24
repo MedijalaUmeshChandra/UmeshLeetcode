@@ -14,6 +14,7 @@ My journey
 | [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -68,6 +69,7 @@ My journey
 | ------- |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +84,5 @@ My journey
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
