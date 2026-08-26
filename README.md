@@ -14,6 +14,7 @@ My journey
 | [0561-array-partition](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -89,6 +90,7 @@ My journey
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
