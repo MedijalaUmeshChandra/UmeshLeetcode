@@ -11,6 +11,7 @@ My journey
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1512-number-of-good-pairs) |
@@ -45,6 +46,7 @@ My journey
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
@@ -68,6 +70,7 @@ My journey
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
@@ -85,4 +88,8 @@ My journey
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MedijalaUmeshChandra/UmeshLeetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
